@@ -1,0 +1,8 @@
+{
+  "name": "Ndeleng TV (Motjo Curated)",
+  "description": "Koleksi Repository Cloudstream Premium: Film Indonesia, Mancanegara 4K, dan Siaran TV Bebas Anime/NSFW.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/paranparanjare-bot/ndeleng/main/plugins.json"
+  ]
+}
