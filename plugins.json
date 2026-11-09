@@ -615,27 +615,6 @@
     "fileHash": "sha256-c817e170c473567ab49d6ba9a138a63fa3a46d08a48bab30dec949a37bbb09c3"
   },
   {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pmsm.cs3",
-    "status": 1,
-    "version": 8,
-    "name": "Pmsm",
-    "internalName": "Pmsm",
-    "authors": [
-      "Phisher98,Duro92"
-    ],
-    "description": "PMSM (Pencuri Movie Sub Malay)",
-    "fileSize": 60805,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww192.pencurimoviesubmalay.motorcycles&size=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-3289eb2925971271091d48c22082657c94a883f104d6605e9140bdf543d56944"
-  },
-  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PublicSportsIPTV.cs3",
     "status": 1,
     "version": 5,
@@ -1097,28 +1076,6 @@
     "fileHash": "sha256-d522da93a5b35fc4f038cc08238485b8e988b1fa20d3de80690301a7bd15e0fa"
   },
   {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/DuniaFilm21.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "DuniaFilm21",
-    "internalName": "DuniaFilm21",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "DuniaFilm21 \u2014 source HAR-verified untuk movie LK21/Dunia21 dari 207.180.246.102 dengan homepage, genre, detail, resolver Minochinos/Morencius HLS, gdriveplayer multi-domain, dan encoded HLS player.",
-    "fileSize": 46192,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=207.180.246.102&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-1921feae4d67a1531c19768c8d3cafcc65eaa02a1dafb8ca39c38eac97a08b66"
-  },
-  {
     "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Dutamovie.cs3",
     "status": 1,
     "version": 30,
@@ -1141,92 +1098,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=malcontentgames.com&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-df5a1adfbe6cd5ca48862d0fb8e401f18faa2bc9d4f3d686f9c55f585f2b3367"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Film21.cs3",
-    "status": 1,
-    "version": 5,
-    "name": "Film21",
-    "internalName": "Film21",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "Film21 provider evidence-based dari tv13.filem21.net dengan homepage/category cards, search, detail movie/series, episode parser, dan playback resolver untuk Muvipro AJAX player tabs, iframe/player/direct media dari HAR/source aktif.",
-    "fileSize": 41805,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tv13.filem21.net&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-33006bef420d7c14bdff4dc5998f5b66735717dac2f26888366345dfc2c13b06"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/FilmAnine.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "FilmAnine",
-    "internalName": "FilmAnine",
-    "authors": [
-      "sad25kag"
-    ],
-    "fileSize": 40592,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmanime.id&size=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-bde563bb1f51eecc5fe0f0dc8bff3c41736e196317047975ec91d54892ef81ce"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Filmkita.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "Filmkita",
-    "internalName": "Filmkita",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "Filmkita",
-    "fileSize": 31050,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=s7.iix.llc&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-8260966c2a691ec14d8a6d63929d73221380fca8bc5f042710394c9684cf2d8b"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/FilmLokal.cs3",
-    "status": 1,
-    "version": 10,
-    "name": "FilmLokal",
-    "internalName": "FilmLokal",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "FilmLokal provider split-structure dengan search fallback dan DooPlay/AJAX loadLinks untuk tv1.filmlokal.me.",
-    "fileSize": 56015,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tv1.filmlokal.me&sz=256",
-    "apiVersion": 1,
-    "fileHash": "sha256-f36f23b68b9fd7309a362577658a35fa139b75387daa32d57e0aef1b973ea98f"
   },
   {
     "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/FreeReels.cs3",
@@ -1316,29 +1187,6 @@
     "fileHash": "sha256-4f294d9987c5f222c104518581209704a5bd7b0a29689f86bdc716c8f0354cd5"
   },
   {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Kawanfilm.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "Kawanfilm",
-    "internalName": "Kawanfilm",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "",
-    "fileSize": 25640,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tv2.kawanfilm21.co&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-bbc2cc6d95838bf41f68ae004c211d8a4e6a7cdf42492cf61d73072339d98cb2"
-  },
-  {
     "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/KissKH.cs3",
     "status": 1,
     "version": 5,
@@ -1379,71 +1227,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=layarasia.lol&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-3c47bcb1450a811ba499d8b601a2b22a859238c1044cc26105c041a766cb42c8"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/MovieOn21.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "MovieOn21",
-    "internalName": "MovieOn21",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "MovieOn21 provider v6 dengan kategori homepage dirapikan, metadata non-dewasa, dan resolver t21.press Utama/Hydra berbasis HAR.",
-    "fileSize": 57327,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tv.movieon21.mov&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-8d8a5bb39164820d6dac5ca389f762d56b65b03c242bfc73eab6ebdacebbb6d0"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/NgeFilm21Provider.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "NgeFilm21Provider",
-    "internalName": "NgeFilm21Provider",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "NgeFilm21 \u2014 Streaming Movie and TV Series",
-    "fileSize": 31477,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://new31.ngefilm.site/wp-content/uploads/2023/08/cropped-imageedit_8_4481000408-60x60.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-67de017dde366d25bdc75efbdd4491fa301bafdcbdba4dc43afc2709ca687bc1"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Nonton01.cs3",
-    "status": 1,
-    "version": 16,
-    "name": "Nonton01",
-    "internalName": "Nonton01",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "Nonton01 provider aktif berbasis HAR: main source 01ntn.cc, detail DooPlay 91.208.197.221, playback Cinemaz dan 01Player/Abyss.",
-    "fileSize": 58591,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=01ntn.cc&sz=256",
-    "apiVersion": 1,
-    "fileHash": "sha256-f81e883f12e4272c5f3e49b7cfaf6d9a2571de70d3809ee9de9429f0f7bfaab6"
   },
   {
     "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/NontonDrakor.cs3",
@@ -1509,72 +1292,6 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-9de3a856ead0e357583cdcd6ba1e2ebe6f2dc89837ab97d4dbe9fdf3e6cede39"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/SarangFilm21.cs3",
-    "status": 1,
-    "version": 2,
-    "name": "SarangFilm21",
-    "internalName": "SarangFilm21",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "Provider CloudStream untuk SarangFilm21.",
-    "fileSize": 40805,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://ui-avatars.com/api/?name=SarangFilm21&background=111111&color=ff0000&size=256&font-size=0.45",
-    "apiVersion": 1,
-    "fileHash": "sha256-266572f883e3174e106deeaf9021cb8d434114616ac0be984823756b152b1e1c"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/SaveFilm21.cs3",
-    "status": 1,
-    "version": 4,
-    "name": "SaveFilm21",
-    "internalName": "SaveFilm21",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "SaveFilm21 provider untuk streaming film dan series subtitle Indonesia dari new13.savefilm21info.com. Parser dibuat evidence-based dari source aktif dengan homepage/category cards, detail movie/series, multi-server playback (sf21.vidplayer.live, sf21.rpmvid.com), dan episode navigator via /eps/ path.",
-    "fileSize": 35459,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=new13.savefilm21info.com&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-04e44e09b985d4f2b4fdafd76e5870bf650c2beb9e43617b1c309410ebb3be16"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/SontolFilmProvider.cs3",
-    "status": 1,
-    "version": 2,
-    "name": "SontolFilmProvider",
-    "internalName": "SontolFilmProvider",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "SontolFilm",
-    "fileSize": 24967,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sontolfilm.com&size=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-92f5fa2128dd7c3062fd98ab4b8a45f0919e3539da15157bf2c92be74e02ad51"
   },
   {
     "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/SoraStream.cs3",
