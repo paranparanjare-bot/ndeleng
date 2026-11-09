@@ -190,7 +190,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.cs3",
     "status": 1,
-    "version": 8,
+    "version": 10,
     "name": "Fivemovierulz",
     "internalName": "Fivemovierulz",
     "authors": [
@@ -198,16 +198,16 @@
       "Dilip"
     ],
     "description": "Movies & Series",
-    "fileSize": 40909,
+    "fileSize": 59479,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "hi",
+    "language": "ta",
     "tvTypes": [
       "TvSeries",
       "Movie"
     ],
     "iconUrl": "https://i.ibb.co/SwQRhsn/20241016-074942.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-faba3cf69004cdb1f2b5b5e2f052920871de23076cb0ba743baa39623b0892ab"
+    "fileHash": "sha256-892f80883877266bf61c0c6c60991748c1c5211bbae6bec03981b818a7489765"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
