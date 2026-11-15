@@ -1292,29 +1292,6 @@
     "fileHash": "sha256-9de3a856ead0e357583cdcd6ba1e2ebe6f2dc89837ab97d4dbe9fdf3e6cede39"
   },
   {
-    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/SoraStream.cs3",
-    "status": 1,
-    "version": 237,
-    "name": "SoraStream",
-    "internalName": "SoraStream",
-    "authors": [
-      "sad25kag"
-    ],
-    "description": "#1 best extention based on MultiAPI",
-    "fileSize": 183617,
-    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
-    "language": "id",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
-      "Anime",
-      "Movie"
-    ],
-    "iconUrl": "https://github.com/duro92/ExtCloud/blob/main/SoraStream/Icon.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-823691321e863ce614125411d878a68534d754ff632132fd2e12d8941c0d4ebf"
-  },
-  {
     "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Terbit21.cs3",
     "status": 1,
     "version": 6,
