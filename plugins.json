@@ -1,10 +1,10 @@
 [
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://z2.idlixku.com&sz=%size%",
-    "fileHash": "sha256-714aa3247d5e6c799c97079ebeabd9203bf4310844b3795f1b9455b3e401b608",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://z3.idlixku.com&sz=%size%",
+    "fileHash": "sha256-fd57e2b3d9a5a18382f3d7709ab19a74ae0ef72a39a575f812397b79c3395d93",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ExtremeBoyGG/nonton-indo",
-    "fileSize": 56077,
+    "fileSize": 57921,
     "status": 1,
     "language": "id",
     "authors": [
@@ -14,7 +14,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "Idlix",
     "url": "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/Idlix.cs3",
     "name": "Idlix"
@@ -505,6 +505,28 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
     "apiVersion": 1,
     "fileHash": "sha256-aa8676e2dd50eaf0f3107ad5f8c562a86425251cbcede3606876403db1af2396"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MPlayerProvider.cs3",
+    "status": 1,
+    "version": 9,
+    "name": "MPlayerProvider",
+    "internalName": "MPlayerProvider",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Indian Movies/Series/Kdrama(Hindi Dubbed)",
+    "fileSize": 123651,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "hi",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-f2c5c94df93bc7d1556d2a621c17fb7c015c2ec30544f6998c703c45ddc423ae"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
