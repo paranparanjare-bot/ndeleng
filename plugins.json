@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://z3.idlixku.com&sz=%size%",
-    "fileHash": "sha256-8c12a0f8d0b102286baf74df2fda427628996ba0be28787532baf6cbeae6aef9",
+    "fileHash": "sha256-0497a6ce1fa057aba30f8df740d2407e43c05d9a386121aad094462fb0bab2cd",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ExtremeBoyGG/nonton-indo",
-    "fileSize": 64705,
+    "fileSize": 65498,
     "status": 1,
     "language": "id",
     "authors": [
@@ -14,7 +14,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "Idlix",
     "url": "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/Idlix.cs3",
     "name": "Idlix"
