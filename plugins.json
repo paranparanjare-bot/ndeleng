@@ -1,5 +1,25 @@
 [
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://arrowtv.net&sz=%size%",
+    "fileHash": "sha256-ff2b668e705d412bd2deaad2514da8375b0fdb3790bf36bd8f8c07506ab727d8",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ExtremeBoyGG/nonton-indo",
+    "fileSize": 22158,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "ExtremeBoy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "ArrowTV",
+    "url": "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/ArrowTV.cs3",
+    "name": "ArrowTV"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://z3.idlixku.com&sz=%size%",
     "fileHash": "sha256-0497a6ce1fa057aba30f8df740d2407e43c05d9a386121aad094462fb0bab2cd",
     "apiVersion": 1,
@@ -112,7 +132,7 @@
       "Phisher98"
     ],
     "description": "Bangla/Hindi Movies/Series",
-    "fileSize": 288347,
+    "fileSize": 288337,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "bn",
     "tvTypes": [
@@ -122,7 +142,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5ebc885c4fd765a2ffe423bd30eed743fab01aff287775a7e0e1b9912c83c036"
+    "fileHash": "sha256-e8a536330bfec2e71962aba08eb688300091fea368d799a6b2f50c5fc2eaaa07"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
@@ -467,14 +487,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
     "status": 1,
-    "version": 43,
+    "version": 45,
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "authors": [
       "NivinCNC,Phisher98"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 263394,
+    "fileSize": 271516,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -483,7 +503,29 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-62abd60212c197ca592c0fe3118157c4590bdcfd9609dd976f46c28abb535ff0"
+    "fileHash": "sha256-3a4f34e41ecc4c65729d3f13adbf8fdd0cbd138ac40a5bcb1569affc0762dce3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieNestBD.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "MovieNestBD",
+    "internalName": "MovieNestBD",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Watch Movies & TV Series from MovieNestBD",
+    "fileSize": 191846,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "bn",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movienestbd.best&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-1e03883a4bafb6852b3094e5ad7c985d76819146847b5b637d4d643849bd290e"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.cs3",
